@@ -42,4 +42,5 @@ console.log(student.name)
 console.log(student.age)
 console.log(student.isCool)
 console.log(student['favoriteFood'])
-console.log(student.address.city)
+console.log(student.address.city) 
+
